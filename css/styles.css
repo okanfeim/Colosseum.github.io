@@ -280,7 +280,7 @@ header nav li:last-child{
 @media (max-width: 600px){
 
 #heroBgr{	
-	background-image: none; background-color:#3cb0a3;
+	background-image: none; background-color:#353E45;
 } 
 .hero h1{
 	font-family: 'Cinzel Decorative', cursive;
